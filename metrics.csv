@@ -1,0 +1,5 @@
+disease,model,accuracy,precision,recall,f1,roc_auc
+diabetes,LR,0.708,0.6,0.5,0.545,0.813
+diabetes,RF,0.74,0.652,0.556,0.6,0.816
+heart,LR,0.869,0.812,0.929,0.867,0.951
+heart,RF,0.902,0.844,0.964,0.9,0.955
